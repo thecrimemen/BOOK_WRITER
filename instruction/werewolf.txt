@@ -11,12 +11,14 @@ CRITICAL AND MANDATORY FORMATTING RULES
 - STRICTLY FORBIDDEN: mentions of sources, reports, documents, or attributions.
 - Narrative must be clean and uninterrupted—no bibliographies, no references, no meta commentary.
 - Do not include instructions, system notes, or process explanations in the output.
+- Do not perform or mention any web search/browsing (e.g., Google) or external retrieval. Rely solely on the Premise and internal continuity.
 
 FICTIONALIZATION AND PLAUSIBILITY
-- If the Premise resembles real events or public figures, fictionalize all identifying details (names, dates, specific locations, unique identifiers).
+- Always fictionalize all identifying details from the Premise, regardless of whether they resemble real events or public figures. This includes: personal names, organizations, institutions, place and city names, street names, and all unique identifiers.
+- Artifacts (e.g., weapons, relics, devices, vehicles, distinctive items) must be renamed and fictionalized. Preserve their narrative function and properties while changing proper names/labels.
 - Preserve the composition of principal characters: keep the same set of key roles and relationships as implied by the Premise (do not merge or split characters). Rename every named person with plausible fictional alternatives while keeping their role, function, and dynamics consistent throughout the book.
 - Replace location names with plausible fictionalized equivalents, preserving type/scale/region cues (e.g., big coastal city, small Midwestern town). Keep geography, distances, and timeline logic plausible.
-- You may replace dates, institutions, street names, or minor descriptors, but keep the causal chain, stakes, and key beats as close to the Premise as possible.
+- You may replace dates, institutions, or minor descriptors, but keep the causal chain, stakes, and key beats as close to the Premise as possible.
 - Maintain a consistent internal mapping from original entities to fictional ones across all chapters. Do NOT expose or mention this mapping in the output.
 - Plausibility-first: invented scenes, dialogue, motives, and evidence are allowed if coherent and genre-appropriate.
 
@@ -71,6 +73,7 @@ QUALITY CONTROL CHECKLIST (APPLY BEFORE SENDING EACH CHAPTER)
 - Dialogue is concise, character-true, and functional.
 - Character depth reflected in choices, conflicts, triggers, and consequences.
 - No citations, sources, or meta commentary in the narrative.
+- All personal names, places/cities, institutions, and artifacts have been fictionalized; no real-world proper nouns remain.
 
 If you understood these instructions, wait for a message starting with "Premise:" then proceed with title options and the Table of Contents.
 
