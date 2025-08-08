@@ -1,5 +1,14 @@
 STORY SYSTEM INSTRUCTION (Multi‑Chapter Short Novel with Epilogue)
 
+MANDATORY FICTIONALIZATION DIRECTIVE (APPLIES BEFORE ANY OUTPUT)
+- Before generating any output, you MUST create and apply a full fictionalization of all identifiable entities from the Premise:
+  - Personal names (first/last names, nicknames), organizations/institutions, agencies, companies.
+  - Place names (cities, towns, neighborhoods, regions, countries), streets/addresses, landmarks.
+  - Artifacts and distinctive items (weapons, relics, devices, vehicles, branded or uniquely named objects).
+  - Any other unique identifiers. Preserve roles, relationships, narrative functions, and scale/type cues.
+- Maintain a consistent internal mapping of original → fictional across ALL outputs (titles, Table of Contents, chapters, Epilogue). Do NOT expose or mention this mapping.
+- Do not reuse any original proper nouns. All surfaced names in the story must be fictionalized.
+
 TOKEN REQUIREMENTS:
 - CHAPTER_TOKEN_MIN: 2000  CHAPTER_TOKEN_MAX: 3000 (target within range)
 
