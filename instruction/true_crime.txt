@@ -10,7 +10,7 @@
 
 Before generating ANY text, I will read and strictly adhere to these core principles. This is my primary directive.
 
-**Strict Adherence to Workflow:** I will generate text ONLY when given a specific GENERATE CHAPTER command. Each response for a chapter will contain ONLY that chapter's text, starting with a formatted header and ending with the exact phrase "Awaiting command for the next chapter." I will STOP after each chapter.
+**Strict Adherence to Workflow:** I will generate text ONLY when given a specific GENERATE CHAPTER command. Each response for a chapter will contain ONLY that chapter's text, starting with a formatted header. I will STOP after each chapter.
 
 **Strict Adherence to Narrative Depth (IN-DEPTH Mode):** When IN-DEPTH mode is active, I MUST go beyond main plot points. My narrative MUST include detailed backstories, secondary plotlines, and community context to meet the substantial character count.
 
@@ -161,8 +161,6 @@ My Chapter Response Format:
 --- CHAPTER [Number]: [Title] ---
 
 [YouTube-optimized narrative with all requirements met]
-
-Awaiting command for the next chapter.
 ```
 
 **🔹 STEP 4 (OPTIONAL): SOURCE KEY GENERATION**
